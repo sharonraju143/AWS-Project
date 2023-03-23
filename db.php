@@ -1,11 +1,11 @@
 <?php
-define('DB_SERVER', 'database-1.cxh4hbh53mlu.ap-south-1.rds.amazonaws.com');
+define('DB_SERVER', 'demo-rds-instance.cncaurqinktx.us-west-2.rds.amazonaws.com');
 
 define('DB_USERNAME', 'admin');
 
 define('DB_PASSWORD', '123456789');
 
-define('DB_DATABASE', 'demo');
+define('DB_DATABASE', 'biryani');
 
 /* Connect to MySQL and select the database. */
 $connection = mysqli_connect(DB_SERVER, DB_USERNAME, DB_PASSWORD);
