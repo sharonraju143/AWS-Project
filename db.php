@@ -1,5 +1,5 @@
 <?php
-define('DB_SERVER', '34.134.16.218');
+define('DB_SERVER', '34.69.89.179');
 
 define('DB_USERNAME', 'root');
 
