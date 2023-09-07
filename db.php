@@ -1,9 +1,9 @@
 <?php
-define('DB_SERVER', 'biryani.cngedzrzpxm3.ap-south-1.rds.amazonaws.com');
+define('DB_SERVER', '34.69.89.179');
 
-define('DB_USERNAME', 'admin');
+define('DB_USERNAME', 'root');
 
-define('DB_PASSWORD', 'admin123');
+define('DB_PASSWORD', 'admin@123');
 
 define('DB_DATABASE', 'biryani');
 
